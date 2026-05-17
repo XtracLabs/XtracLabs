@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Salut, moi c'est XytacLabs
 
-<!--
-**XtracLabs/XtracLabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur Front-End spécialisé en HTML, CSS et JavaScript.
 
-Here are some ideas to get you started:
+## 🚀 Compétences
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Design
+- Interfaces modernes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Mes projets
+- Sites vitrines
+- Interfaces web
+- Applications web
+- Projets JavaScript
+
+## 💻 Technologies
+HTML | CSS | JavaScript
