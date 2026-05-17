@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est XytacLabs
+# 👋 Salut, moi c'est XtacLabs
 
 Développeur Front-End spécialisé en HTML, CSS et JavaScript.
 
